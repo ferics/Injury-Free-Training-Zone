@@ -7,3 +7,6 @@ It is an android application written in Kotlin with the sole purpose of a produc
 
 ## Team member
 - [Chanboth Som](https://github.com/ferics)
+
+## Draft Homepage Design
+<img width="408" alt="boardimg" src="https://github.com/ferics/Injury-Free-Training-Zone/blob/master/Draft%20Homepage%20Design.jpg">
